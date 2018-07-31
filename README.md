@@ -1,2 +1,2 @@
 # PracticeProjects
-Practice projects, currently in React Native
+Practice project, currently in React Native
